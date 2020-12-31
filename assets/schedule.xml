@@ -1,0 +1,313 @@
+<?xml version = "1.0" ?>
+<schedule>
+    <movie title="Home Alone" time="09:30 AM" date="Fri,Jan,1">
+        <reserved seat="1A" />
+        <reserved seat="2B" />
+    </movie>
+    <movie title="Tenet" time="12:00 PM" date="Fri,Jan,1">
+        <reserved seat="9I">9I</reserved>
+    </movie>
+    <movie title="Home Alone" time="02:00 PM" date="Fri,Jan,1">
+        <reserved seat="4F" />
+    </movie>
+    <movie title="Tenet" time="04:00 PM" date="Fri,Jan,1">
+        <reserved seat="3C" />
+    </movie>
+    <movie title="Home Alone" time="06:00 PM" date="Fri,Jan,1">
+        <reserved seat="2B" />
+    </movie>
+    <movie title="Tenet" time="08:00 PM" date="Fri,Jan,1">
+        <reserved seat="1A" />
+    </movie>
+    <movie title="Home Alone" time="10:00 PM" date="Fri,Jan,1">
+        <reserved seat="2B" />
+    </movie>
+    <movie title="Tenet" time="12:00 AM" date="Fri,Jan,1">
+        <reserved seat="2B" />
+    </movie>
+    <movie title="Tenet" time="09:30 AM" date="Sat,Jan,2">
+        <reserved seat="1A" />
+        <reserved seat="2B" />
+    </movie>
+    <movie title="Home Alone" time="12:00 PM" date="Sat,Jan,2">
+        <reserved seat="9I" />
+    </movie>
+    <movie title="Tenet" time="02:00 PM" date="Sat,Jan,2">
+        <reserved seat="4F" />
+    </movie>
+    <movie title="Home Alone" time="04:00 PM" date="Sat,Jan,2">
+        <reserved seat="3C" />
+    </movie>
+    <movie title="Tenet" time="06:00 PM" date="Sat,Jan,2">
+        <reserved seat="2B" />
+    </movie>
+    <movie title="Home Alone" time="08:00 PM" date="Sat,Jan,2">
+        <reserved seat="1A" />
+    </movie>
+    <movie title="Tenet" time="10:00 PM" date="Sat,Jan,2">
+        <reserved seat="2B" />
+    </movie>
+    <movie title="Home Alone" time="12:00 AM" date="Sat,Jan,2">
+        <reserved seat="2B" />
+    </movie>
+    <movie title="Home Alone" time="09:30 AM" date="Sun,Jan,3">
+        <reserved seat="1A" />
+        <reserved seat="2B" />
+    </movie>
+    <movie title="Tenet" time="12:00 PM" date="Sun,Jan,3">
+        <reserved seat="9I" />
+    </movie>
+    <movie title="Home Alone" time="02:00 PM" date="Sun,Jan,3">
+        <reserved seat="4F" />
+    </movie>
+    <movie title="Tenet" time="04:00 PM" date="Sun,Jan,3">
+        <reserved seat="3C" />
+    </movie>
+    <movie title="Home Alone" time="06:00 PM" date="Sun,Jan,3">
+        <reserved seat="2B" />
+    </movie>
+    <movie title="Tenet" time="08:00 PM" date="Sun,Jan,3">
+        <reserved seat="1A" />
+    </movie>
+    <movie title="Home Alone" time="10:00 PM" date="Sun,Jan,3">
+        <reserved seat="2B" />
+    </movie>
+    <movie title="Tenet" time="12:00 AM" date="Sun,Jan,3">
+        <reserved seat="2B" />
+    </movie>
+    <movie title="Tenet" time="09:30 AM" date="Mon,Jan,4">
+        <reserved seat="1A" />
+        <reserved seat="2B" />
+    </movie>
+    <movie title="Home Alone" time="12:00 PM" date="Mon,Jan,4">
+        <reserved seat="9I" />
+    </movie>
+    <movie title="Tenet" time="02:00 PM" date="Mon,Jan,4">
+        <reserved seat="4F" />
+    </movie>
+    <movie title="Home Alone" time="04:00 PM" date="Mon,Jan,4">
+        <reserved seat="3C" />
+    </movie>
+    <movie title="Tenet" time="06:00 PM" date="Mon,Jan,4">
+        <reserved seat="2B" />
+    </movie>
+    <movie title="Home Alone" time="08:00 PM" date="Mon,Jan,4">
+        <reserved seat="1A" />
+    </movie>
+    <movie title="Tenet" time="10:00 PM" date="Mon,Jan,4">
+        <reserved seat="2B" />
+    </movie>
+    <movie title="Home Alone" time="12:00 AM" date="Mon,Jan,4">
+        <reserved seat="2B" />
+    </movie>
+    <movie title="Home Alone" time="09:30 AM" date="Tue,Jan,5">
+        <reserved seat="1A" />
+        <reserved seat="2B" />
+    </movie>
+    <movie title="Tenet" time="12:00 PM" date="Tue,Jan,5">
+        <reserved seat="9I" />
+    </movie>
+    <movie title="Home Alone" time="02:00 PM" date="Tue,Jan,5">
+        <reserved seat="4F" />
+    </movie>
+    <movie title="Tenet" time="04:00 PM" date="Tue,Jan,5">
+        <reserved seat="3C" />
+    </movie>
+    <movie title="Home Alone" time="06:00 PM" date="Tue,Jan,5">
+        <reserved seat="2B" />
+    </movie>
+    <movie title="Tenet" time="08:00 PM" date="Tue,Jan,5">
+        <reserved seat="1A" />
+    </movie>
+    <movie title="Home Alone" time="10:00 PM" date="Tue,Jan,5">
+        <reserved seat="2B" />
+    </movie>
+    <movie title="Tenet" time="12:00 AM" date="Tue,Jan,5">
+        <reserved seat="2B" />
+    </movie>
+    <movie title="The Irishman" time="09:30 AM" date="Wed,Jan,6">
+        <reserved seat="1A" />
+        <reserved seat="2B" />
+    </movie>
+    <movie title="Assassin's Creed" time="12:00 PM" date="Wed,Jan,6">
+        <reserved seat="9I" />
+    </movie>
+    <movie title="The Irishman" time="02:00 PM" date="Wed,Jan,6">
+        <reserved seat="4F" />
+    </movie>
+    <movie title="Assassin's Creed" time="04:00 PM" date="Wed,Jan,6">
+        <reserved seat="3C" />
+    </movie>
+    <movie title="The Irishman" time="06:00 PM" date="Wed,Jan,6">
+        <reserved seat="2B" />
+    </movie>
+    <movie title="Assassin's Creed" time="08:00 PM" date="Wed,Jan,6">
+        <reserved seat="1A" />
+    </movie>
+    <movie title="The Irishman" time="10:00 PM" date="Wed,Jan,6">
+        <reserved seat="2B" />
+    </movie>
+    <movie title="Assassin's Creed" time="12:00 AM" date="Wed,Jan,6">
+        <reserved seat="2B" />
+    </movie>
+    <movie title="Assassin's Creed" time="09:30 AM" date="Thu,Jan,7">
+        <reserved seat="1A" />
+        <reserved seat="2B" />
+    </movie>
+    <movie title="The Irishman" time="12:00 PM" date="Thu,Jan,7">
+        <reserved seat="9I" />
+    </movie>
+    <movie title="Assassin's Creed" time="02:00 PM" date="Thu,Jan,7">
+        <reserved seat="4F" />
+    </movie>
+    <movie title="The Irishman" time="04:00 PM" date="Thu,Jan,7">
+        <reserved seat="3C" />
+    </movie>
+    <movie title="Assassin's Creed" time="06:00 PM" date="Thu,Jan,7">
+        <reserved seat="2B" />
+    </movie>
+    <movie title="The Irishman" time="08:00 PM" date="Thu,Jan,7">
+        <reserved seat="1A" />
+    </movie>
+    <movie title="Assassin's Creed" time="10:00 PM" date="Thu,Jan,7">
+        <reserved seat="2B" />
+    </movie>
+    <movie title="The Irishman" time="12:00 AM" date="Thu,Jan,7">
+        <reserved seat="2B" />
+    </movie>
+    <movie title="The Irishman" time="09:30 AM" date="Fri,Jan,8">
+        <reserved seat="1A" />
+        <reserved seat="2B" />
+    </movie>
+    <movie title="Assassin's Creed" time="12:00 PM" date="Fri,Jan,8">
+        <reserved seat="9I" />
+    </movie>
+    <movie title="The Irishman" time="02:00 PM" date="Fri,Jan,8">
+        <reserved seat="4F" />
+    </movie>
+    <movie title="Assassin's Creed" time="04:00 PM" date="Fri,Jan,8">
+        <reserved seat="3C" />
+    </movie>
+    <movie title="The Irishman" time="06:00 PM" date="Fri,Jan,8">
+        <reserved seat="2B" />
+    </movie>
+    <movie title="Assassin's Creed" time="08:00 PM" date="Fri,Jan,8">
+        <reserved seat="1A" />
+    </movie>
+    <movie title="The Irishman" time="10:00 PM" date="Fri,Jan,8">
+        <reserved seat="2B" />
+    </movie>
+    <movie title="Assassin's Creed" time="12:00 AM" date="Fri,Jan,8">
+        <reserved seat="2B" />
+    </movie>
+    <movie title="Assassin's Creed" time="09:30 AM" date="Sat,Jan,9">
+        <reserved seat="1A" />
+        <reserved seat="2B" />
+    </movie>
+    <movie title="The Irishman" time="12:00 PM" date="Sat,Jan,9">
+        <reserved seat="9I" />
+    </movie>
+    <movie title="Assassin's Creed" time="02:00 PM" date="Sat,Jan,9">
+        <reserved seat="4F" />
+    </movie>
+    <movie title="The Irishman" time="04:00 PM" date="Sat,Jan,9">
+        <reserved seat="3C" />
+    </movie>
+    <movie title="Assassin's Creed" time="06:00 PM" date="Sat,Jan,9">
+        <reserved seat="2B" />
+    </movie>
+    <movie title="The Irishman" time="08:00 PM" date="Sat,Jan,9">
+        <reserved seat="1A" />
+    </movie>
+    <movie title="Assassin's Creed" time="10:00 PM" date="Sat,Jan,9">
+        <reserved seat="2B" />
+    </movie>
+    <movie title="The Irishman" time="12:00 AM" date="Sat,Jan,9">
+        <reserved seat="2B" />
+    </movie>
+    <movie title="The Irishman" time="09:30 AM" date="Sun,Jan,10">
+        <reserved seat="1A" />
+        <reserved seat="2B" />
+    </movie>
+    <movie title="Assassin's Creed" time="12:00 PM" date="Sun,Jan,10">
+        <reserved seat="9I" />
+    </movie>
+    <movie title="The Irishman" time="02:00 PM" date="Sun,Jan,10">
+        <reserved seat="4F" />
+    </movie>
+    <movie title="Assassin's Creed" time="04:00 PM" date="Sun,Jan,10">
+        <reserved seat="3C" />
+    </movie>
+    <movie title="The Irishman" time="06:00 PM" date="Sun,Jan,10">
+        <reserved seat="2B" />
+    </movie>
+    <movie title="Assassin's Creed" time="08:00 PM" date="Sun,Jan,10">
+        <reserved seat="1A" />
+    </movie>
+    <movie title="The Irishman" time="10:00 PM" date="Sun,Jan,10">
+        <reserved seat="2B" />
+    </movie>
+    <movie title="Assassin's Creed" time="12:00 AM" date="Sun,Jan,10">
+        <reserved seat="2B" />
+    </movie>
+    <movie title="The Matrix" time="09:30 AM" date="Mon,Jan,11">
+        <reserved seat="2B" />
+    </movie>
+    <movie title="The Matrix" time="12:00 PM" date="Mon,Jan,11">
+        <reserved seat="2B" />
+    </movie>
+    <movie title="The Matrix" time="02:00 PM" date="Mon,Jan,11">
+        <reserved seat="2B" />
+    </movie>
+    <movie title="The Matrix" time="04:30 PM" date="Mon,Jan,11">
+        <reserved seat="2B" />
+    </movie>
+    <movie title="The Matrix" time="09:30 AM" date="Tue,Jan,12">
+        <reserved seat="2B" />
+    </movie>
+    <movie title="The Matrix" time="12:00 PM" date="Tue,Jan,12">
+        <reserved seat="2B" />
+    </movie>
+    <movie title="The Matrix" time="02:00 PM" date="Tue,Jan,12">
+        <reserved seat="2B" />
+    </movie>
+    <movie title="The Matrix" time="04:30 PM" date="Tue,Jan,12">
+        <reserved seat="2B" />
+    </movie>
+    <movie title="The Matrix" time="09:30 AM" date="Wed,Jan,13">
+        <reserved seat="2B" />
+    </movie>
+    <movie title="The Matrix" time="12:00 PM" date="Wed,Jan,13">
+        <reserved seat="2B" />
+    </movie>
+    <movie title="The Matrix" time="02:00 PM" date="Wed,Jan,13">
+        <reserved seat="2B" />
+    </movie>
+    <movie title="The Matrix" time="04:30 PM" date="Wed,Jan,13">
+        <reserved seat="2B" />
+    </movie>
+    <movie title="The Matrix" time="09:30 AM" date="Thu,Jan,14">
+        <reserved seat="2B" />
+    </movie>
+    <movie title="The Matrix" time="12:00 PM" date="Thu,Jan,14">
+        <reserved seat="2B" />
+    </movie>
+    <movie title="The Matrix" time="02:00 PM" date="Thu,Jan,14">
+        <reserved seat="2B" />
+    </movie>
+    <movie title="The Matrix" time="04:30 PM" date="Thu,Jan,14">
+        <reserved seat="2B" />
+    </movie>
+    <movie title="The Matrix" time="09:30 AM" date="Fri,Jan,15">
+        <reserved seat="2B" />
+    </movie>
+    <movie title="The Matrix" time="12:00 PM" date="Fri,Jan,15">
+        <reserved seat="2B" />
+    </movie>
+    <movie title="The Matrix" time="02:00 PM" date="Fri,Jan,15">
+        <reserved seat="2B" />
+    </movie>
+    <movie title="The Matrix" time="04:30 PM" date="Fri,Jan,15">
+        <reserved seat="2B" />
+    </movie>
+</schedule>

@@ -1,0 +1,8 @@
+<?xml version = "1.0" ?>
+<ratings>
+    <rating movie="Home Alone" rate="unrated" />
+    <rating movie="Tenet" rate="unrated" />
+    <rating movie="The Irishman" rate="unrated" />
+    <rating movie="Assassin's Creed" rate="unrated" />
+    <rating movie="The Matrix" rate="unrated" />
+</ratings>
